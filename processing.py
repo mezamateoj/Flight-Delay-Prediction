@@ -2,7 +2,9 @@ import os
 import pandas as pd
 import zipfile
 
-# data source: https://www.kaggle.com/datasets/divyansh22/flight-delay-prediction?select=Jan_2020_ontime.csv
+
+"""This file is mainly use for processing the data. The data is in zip format, so we need to unzip the data first.
+   Then we can read the data and concat them together. Finally, we can save the data as parquet format."""
 
 # Define the directory
 directory = 'D:\Trainee-Challenge\datasets'
