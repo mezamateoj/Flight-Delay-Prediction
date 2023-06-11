@@ -3,9 +3,6 @@ import pandas as pd
 import zipfile
 
 # data source: https://www.kaggle.com/datasets/divyansh22/flight-delay-prediction?select=Jan_2020_ontime.csv
-# code implementation to ...
-# important link
-# https://github.com/RobMulla/twitch-stream-projects/blob/main/050-flights/DataPrep.ipynb
 
 # Define the directory
 directory = 'D:\Trainee-Challenge\datasets'
