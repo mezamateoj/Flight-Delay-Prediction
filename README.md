@@ -6,8 +6,11 @@ Project for the Trainee Challenge - LATAM Airlines by Mateo Meza
 1. [Exploratory Data Analysis](./notebooks/EDA.ipynb)
 1. [Ml Models](./notebooks/Model.ipynb)
 
-initial processing of the data
+Initial processing of the data
 [unzip data](./processing.py)
+
+Final Report
+[report](./report/README.pdf)
 
 ### Data
 
