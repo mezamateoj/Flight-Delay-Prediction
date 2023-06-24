@@ -1,8 +1,6 @@
-# Trainee-Challenge
+# Departure Airplane Delay Prediction
 
-## Desafio Data Analyst
-Project for the Trainee Challenge - LATAM Airlines by Mateo Meza
-
+## Tetsting different ML models
 
 ### Contents
 1. [Data Prep](./notebooks/DataPrep.ipynb)
